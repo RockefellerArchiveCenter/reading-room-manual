@@ -1,4 +1,7 @@
-# Rockefeller Archive Center Reading Room Manual
+---
+layout: docs
+title:  "Rockefeller Archive Center Reading Room Manual"
+---
 
 ## Introduction
 
