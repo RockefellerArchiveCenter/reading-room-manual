@@ -1,0 +1,10 @@
+public: true
+type: "docs"
+tags:
+  - "reference"
+  - "reading room"
+  - "manual"
+title: "Reading Room Manual"
+description: "A guide for staff who work in the Reading Rooms or with onsite researchers."
+pages:
+  - ["Reading Room Manual", "index"]
