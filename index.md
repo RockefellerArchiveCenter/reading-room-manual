@@ -193,9 +193,6 @@ Researchers interested in accessing digital media must use an access surrogate. 
 ## Emergency Procedures
 Emergency procedures are under revision by another working group. This section of the guide will link to that document at a future date.
 
-
- 
-
 ## Appendices
 * Appendix A: Orientation checklist (available here S:\Inter-Office\Reference\Reading Room Information) and list of Researcher Orientation Steps
 * Examples of all Reading Room forms (some are here: S:\Inter-Office\Reference\Reading Room Information and also S:\Inter-Office\Archival\Forms)
@@ -206,8 +203,6 @@ Emergency procedures are under revision by another working group. This section o
 * Reference Department organizational chart (available here: here S:\Inter-Office\Reference\Reading Room Information here S:\Inter-Office\Reference\Reading Room Information)
 * Reference Department Communications Tree (available here S:\Inter-Office\Reference\Reading Room Information
 * Disaster Plan (available here: M:\Archival Policies & Procedures_Don't Move\Disaster Plan)
-
- 
 
 ### Appendix A: Researcher Orientation Steps
 _First Floor_
@@ -225,12 +220,12 @@ _First Floor_
 12. Determine if the researcher has requested oversized materials or any other special formats. Tell the researcher when to expect the material, and review handling and requesting procedures.
 13. Provide [Virtual Vault] instructions.
 
-_Second Floor_
-14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.
-15. Check in with the desk monitor and get an Out card for the researcher.
-16. If necessary, provide a review of the cart and the table, pointing out power strips.
-17. Have the researcher sign the completed Orientation Checklist and hand it to the desk monitor.
-18. If the researcher will be using microfilm, point out the microfilm machines and provide instructions on the ViewScan software. This step can wait until the researcher is ready to use the microfilm.
+_Second Floor_  
+14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.  
+15. Check in with the desk monitor and get an Out card for the researcher.  
+16. If necessary, provide a review of the cart and the table, pointing out power strips.  
+17. Have the researcher sign the completed Orientation Checklist and hand it to the desk monitor.  
+18. If the researcher will be using microfilm, point out the microfilm machines and provide instructions on the ViewScan software. This step can wait until the researcher is ready to use the microfilm.  
 19. Touch base with the researcher periodically throughout the day, saying you can be paged or reached by email.
 
 
