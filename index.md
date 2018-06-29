@@ -201,7 +201,7 @@ Researchers must use a book cradle with larger bound volumes to hold open the ou
 
 #### Audiovisual
 There are three options for viewing audiovisual materials:
-* Researchers can access digitized access copies in the [Virtual Vault].
+* Researchers can access digitized access copies in the [Virtual Vault](http://virtualvault.rockarch.org/).
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
 * Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the Aeon Guides for the RAC folder.
 
@@ -240,7 +240,7 @@ Emergency procedures are under revision by another working group. This section o
 10. Indicate the retrieval submission deadlines. All requests must be submitted by these times: 10:00, 11:30, 1:30, and 3:00. All requests submitted after 3:00 will be pulled for the following morning. Explain how to identify whether or not there is a second cart of material, and how to request that it be retrieved.
 11. Review the camera policy and citation slips; as needed, go over photoduplication procedures and the blue/green/yellow slips.
 12. Determine if the researcher has requested oversized materials or any other special formats. Tell the researcher when to expect the material, and review handling and requesting procedures.
-13. Provide Virtual Vault instructions. http://virtualvault.rockarch.org/
+13. Provide Virtual Vault instructions. [http://virtualvault.rockarch.org/](http://virtualvault.rockarch.org/)
 
 #### Second Floor  
 14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.  
