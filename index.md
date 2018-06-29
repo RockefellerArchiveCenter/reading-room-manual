@@ -205,7 +205,7 @@ Emergency procedures are under revision by another working group. This section o
 * Disaster Plan (available here: M:\Archival Policies & Procedures_Don't Move\Disaster Plan)
 
 ### Appendix A: Researcher Orientation Steps
-_First Floor_
+#### First Floor
 1. Welcome the researcher in the foyer. Prior to the first day, the researcher should have informed the contact archivist of anticipated arrival time and method, which is then recorded in the Reading Room calendar.
 2. Show the researcher the public spaces on the first floor, including the restrooms, closet, lounge, and terrace. Allow time to put away any food since no food or beverage is allowed upstairs.
 3. Use either Junior’s Office or the Blue Room to conduct the interview.
@@ -218,15 +218,12 @@ _First Floor_
 10. Indicate the retrieval submission deadlines. All requests must be submitted by these times: 10:00, 11:30, 1:30, and 3:00. All requests submitted after 3:00 will be pulled for the following morning. Explain how to identify whether or not there is a second cart of material, and how to request that it be retrieved.
 11. Review the camera policy and citation slips; as needed, go over photoduplication procedures and the blue/green/yellow slips.
 12. Determine if the researcher has requested oversized materials or any other special formats. Tell the researcher when to expect the material, and review handling and requesting procedures.
-13. Provide [Virtual Vault] instructions.
+13. Provide Virtual Vault instructions. http://virtualvault.rockarch.org/
 
-_Second Floor_  
+#### Second Floor  
 14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.  
 15. Check in with the desk monitor and get an Out card for the researcher.  
 16. If necessary, provide a review of the cart and the table, pointing out power strips.  
 17. Have the researcher sign the completed Orientation Checklist and hand it to the desk monitor.  
 18. If the researcher will be using microfilm, point out the microfilm machines and provide instructions on the ViewScan software. This step can wait until the researcher is ready to use the microfilm.  
 19. Touch base with the researcher periodically throughout the day, saying you can be paged or reached by email.
-
-
-[Virtual Vault]: http://virtualvault.rockarch.org/
