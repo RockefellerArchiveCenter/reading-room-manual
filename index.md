@@ -113,6 +113,7 @@ If a researcher is finished with research, offer to call the contact archivist. 
 Scan the items to the appropriate Aeon queue. Finished materials belong in the “Reshelve Item” queue, while materials still in use go in the “Item on Hold in Vault” queue. The exception to this is if the box contains duplication requests. See the “Duplication” section of this handbook for details on initiating a duplication request. Sign the researcher out of the Reading Room in Aeon.
 
 Scan the items to the appropriate Aeon queue. Finished materials belong in the “Reshelve Item” queue, while materials still in use go in the “Item on Hold in Vault” queue. The exception to this is if the box contains duplication requests. See the “Duplication” section of this handbook for details on initiating a duplication request. Sign the researcher out of the Reading Room in Aeon.
+
 ### Closing the Reading Room
 Approximately 10 to 15 minutes prior, remind researchers of the Reading Room’s closing.
 
@@ -123,6 +124,7 @@ Check researchers’ notebooks and loose papers for archival material.
 After the researchers depart, ensure that the carts are returned to Room 103.
 
 Briefly scan the Reading Room. Neaten up workspaces, check for any items that may have been left behind, and return any borrowed supplies. Shut down the monitor’s laptop, and turn off the lights in both Reading Rooms.
+
 ### Using Your Discretion
 If a fastener limits access to a document or image, you may carefully remove it if you are comfortable doing so in the Reading Room. Otherwise, ask for assistance.
 
@@ -131,8 +133,10 @@ Feel free to close the door to the Reading Room when there is noise on the secon
 If the sun is coming through the windows directly onto any of the tables, please close the shade to protect the archival materials and reduce glare. Feel free to open the shades when it is cloudy.
 
 If you need to temporarily leave the room during your desk shift, use the two-way radio to have someone cover the Reading Room for a few minutes.
+
 ## Retrievals and Returns
 Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in RACcess for that retrieval period.
+
 ### Processing Reading Room Requests
 After a researcher submits requests in RACcess, the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “To Be Paged” queue in a timely fashion.
 
@@ -147,49 +151,66 @@ As needed, touch base with the retrievals staff using the two-way radio so they 
 Researchers are allowed a maximum of 10 document storage boxes or 4 record storage boxes at once. Therefore, for new retrievals, ask if they are finished with any boxes and be prepared to route them to the “Awaiting Reshelving” queue so they can be removed when the new boxes are delivered. The staff member bringing the new boxes will also take away the completed boxes.
 
 When more than 10 boxes are requested, have the researcher prioritize the requests. Then indicate when material should be paged (i.e., during the current retrieval time or the next) by changing the time in the “Scheduled Date” in Aeon before routing the request to the “To Be Paged” queue.
+
 ### Requesting Items on Hold for Researchers
 At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. When a researcher is finished with his/her current cart and needs the one on hold, notify the retrievals staff using the two-way radio.
+
 ### Offsite Materials
 Sometimes materials requested are stored off site, which is indicated in Find-It or on the shelf list. Offsite materials require 48-hours’ advanced notice. Therefore, you should follow up with the researcher about the length of his/her research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the “In Offsite Retrieval” queue and send both the Head of Reference and Head of Collections Management an email about the request.
+
 ### Requesting Special Formats
+
 ##### Microfilm
 If a request has multiple reels of microfilm, it must be cloned into multiple requests, one for each reel. This applies even if the microfilm reels are consecutive reels. Refer to for the instructions on cloning microfilm requests.
+
 #### Realia
 Realia requires advanced notice of 48 hours. The Head of Reference and the Head of Collections Management need to approve these requests. Follow up with Collections Management Team to determine if the item can easily be pulled. A more detailed procedure is being developed.
+
 #### Ephemera
 Retrieving ephemera is based on two factors: available space in the Reading Room and available staff to assist with pulling procedures. Two tables are needed for viewing most ephemera. If two are not available, call for the second room to be opened. If both Reading Rooms are full, contact the Head of Reference. Collections Management can be a resource for pulling the material if a second person is required.
+
 #### Audiovisual
 * Refer to Aeon Guides for the RAC to find instructions for audiovisual requests.
-
 * The RAC does not provide access to original magnetic media. A digital surrogate must be created for all video and audio objects. Digitally available audiovisual material is indicated in the Access Restriction Note: “Access copy available.” If a digital surrogate does not exist, the researcher should speak with the Audiovisual Archivist or a member of Collections Management to discuss further options.
 * The Audiovisual Archivist or a member of Collections Management will assess any requested film prints and decide whether they are in playable condition. Advanced notice of _at least_ 48 business hours must be given to allow for proper staging and assessment. The RAC does not provide access to films that are physically deteriorating, nor can the RAC allow access to film negatives, fine grain masters, production elements, or work prints.
+
 ### Checking Materials out to Researchers
 Retrievals take from 15-45 minutes. When materials arrive in the Reading Room, check the items out to the researchers and move them onto their carts. If the researcher is not yet ready for the materials, place the items in the “On Hold in Reading Room” queue and leave the cart at the front of the room.
+
 ### Returns
 Mark the completed cart with a filled-out cart note and route the boxes into the “Reshelve Items” queue. Use the radio to have the retrievals staff member take the cart to Room 103.
+
 ### Duplication
 The RAC provides duplication services for paper photocopies, PDF files, and high-resolution scans of both documents and photographs for a fee. We also duplicate moving images and audio formats. The current fee schedule for duplication services is available on the [website](http://www.rockarch.org/). All PDF and photocopy orders are completed on or under 60 business days from the day orders are submitted. High-resolution scans are completed on or under 30 business days from the day orders are submitted.
+
 #### Initializing Document & Still Image Duplication Requests
 If researchers are interested in having material duplicated, they should complete the citation information on the appropriate flag, put the flag around the item(s), and let you know when they are done with the box. Place a flag of the same color outside the box to mark there is a duplication order. You will initialize the request in Aeon by following the steps in the Aeon Guides for the RAC folder.
+
 ### Using Equipment and Special Formats
+
 #### Microfilm
 The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers will use a USB device, email, or a cloud storage service to save their copies, although the machines also have printers. Instructions on use of the machines are found in S:\Inter-Office\Reference\Reading Room Information\Instructions for using the ST Viewscan.
 
 If a reel of microfilm breaks, do not put it back in its box and mark it for resehelving. Follow the steps for reporting the break that are found in S:\Inter-Office\Archival\Special Formats\Microfilm repair.
+
 #### Photographs
 Photographs should be handled with the nitrile gloves (or cotton gloves for latex-intolerant researchers) available in the Reading Room. However, photographs housed in mylar sleeves can be handled without gloves. Do not allow researchers to remove photographs from mylar sleeves without the permission of the Head of Reference. Do not allow researchers to move around the room with photographs, even if the sleeves cause glare as they take images.
+
 #### Bound Volumes
 Researchers must use a book cradle with larger bound volumes to hold open the outside edge of the page. The cradle can be adjusted to avoid pressure on the spine of the volume. Weights are available from the desk monitor. Do not allow researchers to crease the pages or press down on the spine of the volumes.
+
 #### Audiovisual
 There are three options for viewing audiovisual materials:
 * Researchers can access digitized access copies in the [Virtual Vault].
-
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
 * Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the Aeon Guides for the RAC folder.
+
 #### Ephemera
 Unlike with standard legal- and letter-sized materials, the researcher will slide ephemera pages from one side of the folder the next rather than flip them as if pages in a book. The desk monitor will help move all materials, as necessary.
+
 #### Digital
 Researchers interested in accessing digital media must use an access surrogate. The finding aid indicates if a surrogate exists. If you have questions about the availability of an access copy, contact the Head of Processing. [Turnaround time and policy for published digital media is TBD.]
+
 ## Emergency Procedures
 Emergency procedures are under revision by another working group. This section of the guide will link to that document at a future date.
 
@@ -205,6 +226,7 @@ Emergency procedures are under revision by another working group. This section o
 * Disaster Plan (available here: M:\Archival Policies & Procedures_Don't Move\Disaster Plan)
 
 ### Appendix A: Researcher Orientation Steps
+
 #### First Floor
 1. Welcome the researcher in the foyer. Prior to the first day, the researcher should have informed the contact archivist of anticipated arrival time and method, which is then recorded in the Reading Room calendar.
 2. Show the researcher the public spaces on the first floor, including the restrooms, closet, lounge, and terrace. Allow time to put away any food since no food or beverage is allowed upstairs.
