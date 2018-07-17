@@ -11,13 +11,13 @@ The Rockefeller Archive Center provides public access to its extensive archival 
 
 The Reading Room policies and procedures help to ensure the protection of the archival materials being used in the Reading Room as well as to provide equal access to open records. The interviewing archivist and desk monitor should reinforce what can be brought in the Reading Room, what should remain in the lockers or lounge, and how records should be handled.
 
-## Outside Items in the Reading Room
+### Outside Items in the Reading Room
 
 The following **are** allowed in the Reading Room: pencils, paper/notes, laptop computers, tablets, cameras, and cell phones. The volume should be silent on all electronic devices. Reading room monitors check loose papers and notebooks at the end of the day.
 
 The following **are not** allowed in the Reading Room: food, beverages, tobacco items (smoking is prohibited in the building), chewing gum, pens, handheld scanners, briefcases, computer cases, bags, purses, excessive papers or notebooks, and coats and other outerwear. If a researcher takes off a hat, scarf, sweater, or jacket while working in the Reading Room, it should immediately be placed in a locker. Suitcases can be stored in the coat closet on the first floor.
 
-## Handling Materials
+### Handling Materials
 
 Standardized practices for researchers handling archival materials are described below:
 * Researchers are limited to one folder at a time, keeping the folder flat on the table with the contents always within it, and reading and turning the pages like they were a book. They should use an Out card to mark the folder’s place in the box.
@@ -31,7 +31,7 @@ Standardized practices for researchers handling archival materials are described
 * They may not remove materials from the Reading Room.
 * They should always leave the call slips in place so that the barcode can be easily scanned.
 
-## Camera Policy
+### Camera Policy
 Researchers are permitted to photograph archival materials with a handheld camera or device. To adhere to U.S. copyright law, photographs may be taken only for personal scholarly use. The RAC [Camera Policy](http://www.rockarch.org/research/inforesearch.php#digital) lists what is permissible when taking photographs in the Reading Room.
 
 ## Researcher Orientation
