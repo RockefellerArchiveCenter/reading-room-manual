@@ -214,7 +214,7 @@ Researchers interested in accessing digital media must use an access surrogate. 
 ## Emergency Procedures
 Emergency procedures are under revision by another working group. This section of the guide will link to that document at a future date.
 
-## Additional Resources
+## Other Resources
 
 | Resource | Location |
 | --- | --- |
