@@ -225,7 +225,7 @@ Emergency procedures are under revision by another working group. This section o
 | Floor plan of RAC |  |
 | Organization chart | S:\Human Resources\Organizational Chart |
 | Reference Department organizational chart | S:\Inter-Office\Reference\Reading Room Information |
-| Reference Department Communications Tree | S:\Inter-Office\Reference\Reading Room Information |
+| Reference Department communications tree | S:\Inter-Office\Reference\Reading Room Information |
 | Disaster Plan | M:\Archival Policies & Procedures_Don't Move\Disaster Plan |
 
 ## Appendix A: Researcher Orientation Steps
