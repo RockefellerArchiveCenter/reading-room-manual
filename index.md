@@ -101,7 +101,7 @@ If specific preservation issues arise during your shift, consult the Guide to Co
 During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you don’t know how to find the answer, ask a member of a reference team using the organizational chart as a guide (S:\Inter-Office\Reference\Reading Room Information).
 
 ### Captain's Log
-The Captain’s Log is available at [http://captainslog/#/](http://captainslog/#/). Its primary function is to note recurring concerns or special arrangements or circumstances. All notes should state the issue and not express any opinions or make personal observations about the researchers. The Captain’s Log should only be used to relay facts necessary for the efficient operation of the Reading Rooms and for the security of the archival materials.
+The Captain’s Log is available at [http://captainslog.rockarch.org](http://captainslog.rockarch.org). Its primary function is to note recurring concerns or special arrangements or circumstances. All notes should state the issue and not express any opinions or make personal observations about the researchers. The Captain’s Log should only be used to relay facts necessary for the efficient operation of the Reading Rooms and for the security of the archival materials.
 
 Please review the Captain’s Log at the beginning of every desk shift. If you notice that a researcher has been reminded multiple times about an issue that continues to be a recurring problem, please notify the Head of Reference or the Director of Archives. If neither can be reached, reach out to an Assistant Director.
 
@@ -214,20 +214,23 @@ Researchers interested in accessing digital media must use an access surrogate. 
 ## Emergency Procedures
 Emergency procedures are under revision by another working group. This section of the guide will link to that document at a future date.
 
-## Appendices
-* Appendix A: Orientation checklist (available here S:\Inter-Office\Reference\Reading Room Information) and list of Researcher Orientation Steps
-* Examples of all Reading Room forms (some are here: S:\Inter-Office\Reference\Reading Room Information and also S:\Inter-Office\Archival\Forms)
-* RACcess workflow diagrams (available here: S:\Inter-Office\Reference\Reading Room Information\RACcess workflow diagrams)
-* Floor plan of reading rooms (available here: S:\Inter-Office\Reference\Reading Room Information)
-* Floor plan of RAC (available __________)
-* Organization chart (available here S:\Human Resources\Organizational Chart)
-* Reference Department organizational chart (available here: here S:\Inter-Office\Reference\Reading Room Information here S:\Inter-Office\Reference\Reading Room Information)
-* Reference Department Communications Tree (available here S:\Inter-Office\Reference\Reading Room Information
-* Disaster Plan (available here: M:\Archival Policies & Procedures_Don't Move\Disaster Plan)
+## Additional Resources
 
-### Appendix A: Researcher Orientation Steps
+| Resource | Location |
+| --- | --- |
+| Orientation checklist | S:\Inter-Office\Reference\Reading Room Information |
+| Reading Room forms | S:\Inter-Office\Reference\Reading Room Information & S:\Inter-Office\Archival\Forms |
+| RACcess workflow diagrams | S:\Inter-Office\Reference\Reading Room Information\RACcess workflow diagrams |
+| Floor plan of reading rooms | S:\Inter-Office\Reference\Reading Room Information |
+| Floor plan of RAC |  |
+| Organization chart | S:\Human Resources\Organizational Chart |
+| Reference Department organizational chart | S:\Inter-Office\Reference\Reading Room Information |
+| Reference Department Communications Tree | S:\Inter-Office\Reference\Reading Room Information |
+| Disaster Plan | M:\Archival Policies & Procedures_Don't Move\Disaster Plan |
 
-#### First Floor
+## Appendix A: Researcher Orientation Steps
+
+### First Floor
 1. Welcome the researcher in the foyer. Prior to the first day, the researcher should have informed the contact archivist of anticipated arrival time and method, which is then recorded in the Reading Room calendar.
 2. Show the researcher the public spaces on the first floor, including the restrooms, closet, lounge, and terrace. Allow time to put away any food since no food or beverage is allowed upstairs.
 3. Use either Junior’s Office or the Blue Room to conduct the interview.
@@ -242,7 +245,7 @@ Emergency procedures are under revision by another working group. This section o
 12. Determine if the researcher has requested oversized materials or any other special formats. Tell the researcher when to expect the material, and review handling and requesting procedures.
 13. Provide Virtual Vault instructions. [http://virtualvault.rockarch.org/](http://virtualvault.rockarch.org/)
 
-#### Second Floor  
+### Second Floor  
 14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.  
 15. Check in with the desk monitor and get an Out card for the researcher.  
 16. If necessary, provide a review of the cart and the table, pointing out power strips.  
