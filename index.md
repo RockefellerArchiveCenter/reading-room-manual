@@ -151,10 +151,10 @@ Researchers are allowed a maximum of 10 document storage boxes or 4 record stora
 When more than 10 boxes are requested, have the researcher prioritize the requests. Then indicate when material should be paged (i.e., during the current retrieval time or the next) by changing the time in the “Scheduled Date” in Aeon before routing the request to the “Be Paged” queue.
 
 ### Requesting Items on Hold for Researchers
-At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. When a researcher is finished with his/her current cart and needs the one on hold, notify the retrievals staff using the two-way radio.
+At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. When a researcher is finished with a cart and needs the one that is on hold, notify the retrievals staff using the two-way radio.
 
 ### Offsite Materials
-Sometimes materials requested are stored off site, which is indicated in Find-It or on the shelf list. Offsite materials require 48-hours advanced notice. Therefore, you should follow up with the researcher about the length of his/her research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the “In Offsite Retrieval” queue and send both the Head of Reference and Head of Collections Management an email about the request.
+Sometimes materials requested are stored off site, which is indicated in Find-It or on the shelf list. Offsite materials require 48-hours advanced notice. Therefore, you should follow up with the researcher about the length of the research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the “In Offsite Retrieval” queue and send both the Head of Reference and Head of Collections Management an email about the request.
 
 ### Requesting Special Formats
 
