@@ -156,7 +156,7 @@ When more than 10 boxes are requested, have the researcher prioritize the reques
 At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. When a researcher is finished with his/her current cart and needs the one on hold, notify the retrievals staff using the two-way radio.
 
 ### Offsite Materials
-Sometimes materials requested are stored off site, which is indicated in Find-It or on the shelf list. Offsite materials require 48-hours’ advanced notice. Therefore, you should follow up with the researcher about the length of his/her research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the “In Offsite Retrieval” queue and send both the Head of Reference and Head of Collections Management an email about the request.
+Sometimes materials requested are stored off site, which is indicated in Find-It or on the shelf list. Offsite materials require 48-hours advanced notice. Therefore, you should follow up with the researcher about the length of his/her research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the “In Offsite Retrieval” queue and send both the Head of Reference and Head of Collections Management an email about the request.
 
 ### Requesting Special Formats
 
