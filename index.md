@@ -112,8 +112,6 @@ If a researcher is finished with research, offer to call the contact archivist. 
 
 Scan the items to the appropriate Aeon queue. Finished materials belong in the “Reshelve Item” queue, while materials still in use go in the “Item on Hold in Vault” queue. The exception to this is if the box contains duplication requests. See the “Duplication” section of this handbook for details on initiating a duplication request. Sign the researcher out of the Reading Room in Aeon.
 
-Scan the items to the appropriate Aeon queue. Finished materials belong in the “Reshelve Item” queue, while materials still in use go in the “Item on Hold in Vault” queue. The exception to this is if the box contains duplication requests. See the “Duplication” section of this handbook for details on initiating a duplication request. Sign the researcher out of the Reading Room in Aeon.
-
 ### Closing the Reading Room
 Approximately 10 to 15 minutes prior, remind researchers of the Reading Room’s closing.
 
