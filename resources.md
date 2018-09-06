@@ -3,7 +3,7 @@ layout: docs
 title:  "Rockefeller Archive Center Reading Room Manual | Other Resources"
 ---
 
-## Other Resources
+## Resources
 
 | Resource | Location |
 | --- | --- |
