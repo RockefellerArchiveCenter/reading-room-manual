@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Reading Room Manual | Other Resources"
+title:  "Reading Room Manual | Other Resources"
 ---
 
 ## Resources
