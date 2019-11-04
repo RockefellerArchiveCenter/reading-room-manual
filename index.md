@@ -172,7 +172,7 @@ Realia requires advanced notice of 48 hours. The Head of Reference and the Head 
 Retrieving ephemera is based on two factors: available space in the Reading Room and available staff to assist with pulling procedures. Two tables are needed for viewing most ephemera. If two are not available, call for the second room to be opened. If both Reading Rooms are full, contact the Head of Reference. Collections Management can be a resource for pulling the material if a second person is required.
 
 #### Audiovisual
-* Refer to Aeon Guides (`/S:/Inter-Office/Reference/Aeon Guides for the RAC`) for the RAC to find instructions for audiovisual requests.
+* Refer to Aeon Guides for the RAC (`/S:/Inter-Office/Reference/Aeon Guides for the RAC`) to find instructions for audiovisual requests.
 * The RAC does not provide access to original magnetic media. A digital surrogate must be created for all video and audio objects. Digitally available audiovisual material is indicated in the Access Restriction Note: “Access copy available.” If a digital surrogate does not exist, the researcher should speak with the Audiovisual Archivist or a member of Collections Management to discuss further options.
 * The Audiovisual Archivist or a member of Collections Management will assess any requested film prints and decide whether they are in playable condition. Advanced notice of _at least_ 48 business hours must be given to allow for proper staging and assessment. The RAC does not provide access to films that are physically deteriorating, nor can the RAC allow access to film negatives, fine grain masters, production elements, or work prints.
 
@@ -206,7 +206,7 @@ There are three options for viewing audiovisual materials:
 
 * Researchers can access digitized access copies in the [Virtual Vault](http://virtualvault.rockarch.org/).
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
-* Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the Aeon Guides for the RAC folder.
+* Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the Aeon Guides for the RAC folder (`/S:/Inter-Office/Reference/Aeon Guides for the RAC)`.
 
 #### Ephemera
 Unlike with standard legal- and letter-sized materials, the researcher will slide ephemera pages from one side of the folder the next rather than flip them as if pages in a book. The desk monitor will help move all materials, as necessary.
