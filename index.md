@@ -70,7 +70,7 @@ Place the carts by the tables. Carts should go closest to the wall, and for the 
 See the “Aeon Guides for the RAC folder (`S:\Inter-Office\Reference\Aeon Guides for the RAC`) for details on seating arrangement (`/S:/Inter-Office/Reference/Reading Room Information/outdated information`). If possible, seat returning researchers at the desk they sat at previously. **Do not** write the researchers’ names on the seating chart until they physically arrive in the Reading Room.
 
 ### Checking Researchers Into the Reading Room
-When a researcher arrives in the Reading Room for the first time each day, the monitor should
+When a researcher arrives in the Reading Room for the first time each day, the monitor should:
 
 *	Greet the researcher and indicate the assigned table.
 *	Hand an Out card to the researcher.
