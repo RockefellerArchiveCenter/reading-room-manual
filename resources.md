@@ -10,7 +10,6 @@ title:  "Reading Room Manual | Other Resources"
 | Orientation checklist | S:\Inter-Office\Reference\Reading Room Information |
 | Reading Room forms | S:\Inter-Office\Reference\Reading Room Information & S:\Inter-Office\Archival\Forms |
 | RACcess workflow diagrams | S:\Inter-Office\Reference\Reading Room Information\RACcess workflow diagrams |
-| Floor plan of reading rooms | S:\Inter-Office\Reference\Reading Room Information |
 | Organization chart | S:\Human Resources\Organizational Chart |
 | Reference Department organizational chart | S:\Inter-Office\Reference\Reading Room Information |
 | Reference Department communications tree | S:\Inter-Office\Reference\Reading Room Information |
