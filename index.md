@@ -36,7 +36,7 @@ Standardized practices for researchers handling archival materials are described
 Researchers are permitted to photograph archival materials with a handheld camera or device. To adhere to U.S. copyright law, photographs may be taken only for personal scholarly use. The RAC [Camera Policy](http://www.rockarch.org/research/inforesearch.php#digital) lists what is permissible when taking photographs in the Reading Room.
 
 ## Researcher Orientation
-The Reading Room is open Monday through Friday from 9:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](http://www.rockarch.org/research/inforesearch.php).
+The Reading Room is open Monday through Friday from 9:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](https://rockarch.org/collections/access-and-request-materials/holiday-schedule/).
 
 The Archive Center provides a free shuttle from and to the Tarrytown train station that meets the following trains:
 * Departs Grand Central at 8:46 a.m. and arrives in Tarrytown at 9:23 a.m. The van arrives at RAC at approximately 9:40 a.m.
