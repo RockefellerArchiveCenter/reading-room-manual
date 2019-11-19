@@ -117,7 +117,7 @@ Scan the items to the appropriate Aeon queue. Finished materials belong in the �
 ### Closing the Reading Room
 Approximately 10 to 15 minutes prior, remind researchers of the Reading Room’s closing.
 
-Follow the procedures outlined in the “Signing a Researcher Out of the Reading Room” section, ensuring that no items remain in the “Item Checked Out to Researcher” and “Item on Hold in Reading Room” queues. If requests were submitted late in the day to the “New Reading Room Request” queue, they can be routed through into “To Be Paged,” or you can route them into the “Awaiting Request Processing” queue to be handled by other staff members.
+Follow the procedures outlined in the “Signing a Researcher Out of the Reading Room” section, ensuring that no items remain in the “Item Checked Out to Researcher” and “Item on Hold in Reading Room” queues. If requests were submitted late in the day to the “New Reading Room Request” queue, they can be routed through into “Be Paged,” or you can route them into the “Awaiting Request Processing” queue to be handled by other staff members.
 
 Check researchers’ notebooks and loose papers for archival material.
 
@@ -140,7 +140,7 @@ Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are t
 Researchers are highly encouraged to submit their reading room requests 2 business days in advance.
 
 ### Processing Reading Room Requests
-After a researcher submits requests in RACcess, the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “To Be Paged” queue in a timely fashion.
+After a researcher submits requests in RACcess, the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
@@ -152,7 +152,7 @@ As needed, touch base with the retrievals staff using their email addresses so t
 
 Researchers are allowed a maximum of 10 document storage boxes or 4 record storage boxes at once. Therefore, for new retrievals, ask if they are finished with any boxes and be prepared to route them to the “Awaiting Reshelving” queue so they can be removed when the new boxes are delivered. The staff member bringing the new boxes will also take away the completed boxes.
 
-When more than 10 boxes are requested, have the researcher prioritize the requests. Then indicate when material should be paged (i.e., during the current retrieval time or the next) by changing the time in the “Scheduled Date” in Aeon before routing the request to the “To Be Paged” queue.
+When more than 10 boxes are requested, have the researcher prioritize the requests. Then indicate when material should be paged (i.e., during the current retrieval time or the next) by changing the time in the “Scheduled Date” in Aeon before routing the request to the “Be Paged” queue.
 
 ### Requesting Items on Hold for Researchers
 At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. Remind the researcher of the set retrieval times for the second carts (10:45, 12:15, 2:15, 4:00).
