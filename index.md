@@ -33,7 +33,7 @@ Standardized practices for researchers handling archival materials are described
 *	They should always leave the call slips in place so that the barcode can be easily scanned.
 
 ### Camera Policy
-Researchers are permitted to photograph archival materials with a handheld camera or device. To adhere to U.S. copyright law, photographs may be taken only for personal scholarly use. The RAC [Camera Policy](http://www.rockarch.org/research/inforesearch.php#digital) lists what is permissible when taking photographs in the Reading Room.
+Researchers are permitted to photograph archival materials with a camera or device. Use of small tripods or camera stands is permissible as long as the archival material is handled with care and according to the Archive Center rules. To adhere to U.S. copyright law, photographs may be taken only for personal scholarly use.
 
 ## Researcher Orientation
 The Reading Room is open Monday through Friday from 9:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](https://rockarch.org/collections/access-and-request-materials/holiday-schedule/).
