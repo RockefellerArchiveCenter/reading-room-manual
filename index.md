@@ -67,7 +67,7 @@ In Aeon, scan all items on the carts to the status “On Hold in Reading Room.�
 
 Place the carts by the tables. Carts should go closest to the wall, and for the two desks in the middle of the Main Room, carts should be placed on the side closest to the Reading Room entrance.  
 
-See the “Aeon Guides for the RAC folder (`S:\Inter-Office\Reference\Aeon Guides for the RAC`) for details on seating arrangement (`/S:/Inter-Office/Reference/Reading Room Information/outdated information`). If possible, seat returning researchers at the desk they sat at previously. **Do not** write the researchers’ names on the seating chart until they physically arrive in the Reading Room.
+See the “Aeon Guides for the RAC folder (`S:\Inter-Office\Reference\Aeon Guides for the RAC`) for details on seating arrangement (`S:\Inter-Office\Reference\Reading Room Information\Seating Arrangements`). If possible, seat returning researchers at the desk they sat at previously. **Do not** write the researchers’ names on the seating chart until they physically arrive in the Reading Room.
 
 ### Checking Researchers Into the Reading Room
 When a researcher arrives in the Reading Room for the first time each day, the monitor should:
