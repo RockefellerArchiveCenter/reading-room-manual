@@ -47,7 +47,7 @@ For a researcher arriving for the first time, there are several steps to the ori
 ## Reading Room Procedures
 ### Reading Room Layout and Supplies
 
-The main Reading Room can accommodate seven researchers; the second Reading Room (in the second-floor library) can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor.
+The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor.
 
 Researchers may use the microfilm machines unattended. Several ViewScan microfilm machines are located in or adjacent to the Reading Rooms.
 
@@ -102,11 +102,6 @@ If specific preservation issues arise during your shift, consult the Guide to Co
 ### Assisting Researchers
 During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you don’t know how to find the answer, ask a member of a reference team using the organizational chart as a guide (`S:\Inter-Office\Reference\Reading Room Information`).
 
-### Captain's Log
-The Captain’s Log is available at [http://captainslog.rockarch.org](http://captainslog.rockarch.org). Its primary function is to note recurring concerns or special arrangements or circumstances. All notes should state the issue and not express any opinions or make personal observations about the researchers. The Captain’s Log should only be used to relay facts necessary for the efficient operation of the Reading Rooms and for the security of the archival materials.
-
-Please review the Captain’s Log at the beginning of every desk shift. If you notice that a researcher has been reminded multiple times about an issue that continues to be a recurring problem, please notify the Head of Reference or the Director of Archives. If neither can be reached, reach out to an Assistant Director.
-
 ### Signing a Researcher Out of the Reading Room
 When researchers are ready to leave for the day, confirm whether they are returning and when, and ask which materials they have finished using. They should also give you their Out cards. Complete the cart note with the relevant information of what can be returned and what is on hold.
 
@@ -144,7 +139,7 @@ After a researcher submits requests in RACcess, the transactions appear in the �
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
-Location information is found via [Find It](http://find-it.rockarch.org/). Any information not found in Find-It will be available in the Master Shelf List (`S:\Inter-Office\Archival\Vault Management\Shelf lists`). In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time.
+Location information is contained in ArchivesSpace and can be found using the [Find It](http://find-it.rockarch.org/) tool or ArchivesSpace. In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time.
 
 Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [http://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. Refer to Aeon Guides for the RAC (`/S:/Inter-Office/Reference/Aeon Guides for the RAC`) for instructions for the latter.
 
@@ -158,7 +153,7 @@ When more than 10 boxes are requested, have the researcher prioritize the reques
 At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. Remind the researcher of the set retrieval times for the second carts (10:45, 12:15, 2:15, 4:00).
 
 ### Offsite Materials
-Sometimes materials requested are stored off site, which is indicated in Find-It or on the shelf list. Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send an email to the Reference Team about the upcoming retrieval, which the Reference Team will handle.
+Sometimes materials requested are stored off site, which is indicated in ArchivesSpace and can be found using the [Find It](http://find-it.rockarch.org/) tool or ArchivesSpace. Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send an email to the Reference Team about the upcoming retrieval, which the Reference Team will handle.
 
 ### Requesting Special Formats
 
@@ -166,7 +161,7 @@ Sometimes materials requested are stored off site, which is indicated in Find-It
 If a request has multiple reels of microfilm, it must be cloned into multiple requests, one for each reel. This applies even if the microfilm reels are consecutive reels. Refer to for the instructions on cloning microfilm requests.
 
 #### Realia
-Realia requires advanced notice of 48 hours. The Head of Reference and the Head of Collections Management need to approve these requests. Follow up with Collections Management Team to determine if the item can easily be pulled. A more detailed procedure is being developed.
+Realia requires advanced notice of 48 hours. The Head of Reference and the Head of Collections Management need to approve these requests. Follow up with Collections Management Team to determine if the item can easily be pulled.
 
 #### Ephemera
 Retrieving ephemera is based on two factors: available space in the Reading Room and available staff to assist with pulling procedures. Two tables are needed for viewing most ephemera. If two are not available, call for the second room to be opened. If both Reading Rooms are full, contact the Head of Reference. Collections Management can be a resource for pulling the material if a second person is required.
@@ -191,7 +186,7 @@ If researchers are interested in having material duplicated, they should complet
 ### Using Equipment and Special Formats
 
 #### Microfilm
-The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers will use a USB device, email, or a cloud storage service to save their copies, although the machines also have printers. Instructions on use of the machines are found in `S:\Inter-Office\Reference\Reading Room Information\Instructions for using the ST Viewscan`.
+The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers typically will use a USB device, email, or a cloud storage service to save their copies, although the machines are connected to a printer. Instructions on use of the machines are found in `S:\Inter-Office\Reference\Reading Room Information\Instructions for using the ST Viewscan`.
 
 If a reel of microfilm breaks, do not put it back in its box and mark it for resehelving. Follow the steps for reporting the break that are found in `S:\Inter-Office\Archival\Special Formats\Microfilm repair`.
 
@@ -213,9 +208,6 @@ Unlike with standard legal- and letter-sized materials, the researcher will slid
 
 #### Digital
 Researchers interested in accessing digital media must use an access surrogate. The finding aid indicates if a surrogate exists. If you have questions about the availability of an access copy, contact the Head of Processing. [Turnaround time and policy for published digital media is TBD.]
-
-## Emergency Procedures
-Emergency procedures are under revision by another working group. This section of the guide will link to that document at a future date.
 
 ## Appendix A: Researcher Orientation Steps
 
