@@ -22,7 +22,7 @@ The following **are not** allowed in the Reading Room: food, beverages, tobacco 
 
 Standardized practices for researchers handling archival materials are described below:
 *	Researchers are limited to one folder at a time. They should keep the folder flat on the table with the contents always within the folder, and should turn the pages as if they were turning the pages of a book. They should use an Out card to mark the folder’s place in the box.
-*	For nontraditional containers (such as accordion folders or boxes of index cards), the monitor should engage with the researcher about proper placement of the the Out card.
+*	For nontraditional containers (such as accordion folders or boxes of index cards), the monitor should engage with the researcher about proper placement of the Out card.
 *	Researchers may not rearrange the order of materials in folders nor the order of folders in boxes.
 *	They should turn the pages within a folder or bound volume gently.
 *	They should not lean on, write on, fold, bend, fasten, or unfasten archival materials.
@@ -112,7 +112,7 @@ Scan the items to the appropriate Aeon queue. Finished materials belong in the �
 ### Closing the Reading Room
 Approximately 10 to 15 minutes prior, remind researchers of the Reading Room’s closing.
 
-Follow the procedures outlined in the “Signing a Researcher Out of the Reading Room” section, ensuring that no items remain in the “Item Checked Out to Researcher” and “Item on Hold in Reading Room” queues. If requests were submitted late in the day to the “New Reading Room Request” queue, they can be routed into “Be Paged,” or you can route them into the “Awaiting Request Processing” queue to be handled by other staff members.
+Follow the procedures outlined in the “Signing a Researcher Out of the Reading Room” section, ensuring that no items remain in the “Item Checked Out to Researcher” and “Item on Hold in Reading Room” queues. If requests were submitted late in the day to the “New Reading Room Request” queue, they can be routed into “Be Paged,” or into the “Awaiting Request Processing” queue to be handled by other staff members.
 
 Check researchers’ notebooks and loose papers for archival material.
 
@@ -141,7 +141,7 @@ You also need to check the restriction field for all new requests. While new req
 
 Location information is contained in ArchivesSpace and can be found using the [Find It](http://find-it.rockarch.org/) tool or ArchivesSpace. In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time.
 
-Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [http://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. Refer to Aeon Guides for the RAC (/S:/Inter-Office/Reference/Aeon Guides for the RAC) for a template of instructions that can be used in an email to the researchers.
+Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [http://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. Refer to Aeon Guides for the RAC (/S:/Inter-Office/Reference/Aeon Guides for the RAC) for a template of instructions that can be used in an email to researchers.
 
 As needed, touch base with the retrievals staff using their email addresses so they are aware of the retrievals and any delays with location information. (See S:\Inter-Office\Reference\Reading Room Information for the staff retrieval schedule and the second cart schedule.) If the person retrieving second carts is out of the office, email the Reference Team for assistance.
 
