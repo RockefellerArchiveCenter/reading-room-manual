@@ -70,7 +70,7 @@ In Aeon, scan all items on the carts to the status “On Hold in Reading Room.�
 
 Place the carts by the tables. Carts should go closest to the wall, and for the two desks in the middle of the Main Room, carts should be placed on the side closest to the Reading Room entrance.  
 
-See the See the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/sites/Reference) and  [Seating Arrangements](https://rockarchorg.sharepoint.com/sites/Reference) folders for instructions on how to sign a researcher into the reading room. If possible, seat returning researchers at the desk they sat at previously. Do not write the researchers’ names on the seating chart until they physically arrive in the Reading Room. 
+See the See the [Updated Aeon Guides]([https://rockarchorg.sharepoint.com/sites/Reference](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FUpdated%20Aeon%20Guides&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db)) and  [Seating Arrangements]([https://rockarchorg.sharepoint.com/sites/Reference](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FSeating%20Arrangements&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db)) folders for instructions on how to sign a researcher into the reading room. If possible, seat returning researchers at the desk they sat at previously. Do not write the researchers’ names on the seating chart until they physically arrive in the Reading Room. 
 
 ### Checking Researchers Into the Reading Room
 When a researcher arrives in the Reading Room for the first time each day, the monitor should:
@@ -142,7 +142,7 @@ After a researcher submits requests in [RACcess](raccess.rockarch.org), the tran
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
-Location information is contained in [ArchivesSpace](as.rockarch.org) and can be found in the location field in the individual Aeon transactions.  In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time. 
+Location information is contained in [ArchivesSpace](https://as.rockarch.org) and can be found in the location field in the individual Aeon transactions.  In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time. 
 
 Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [http://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
 
