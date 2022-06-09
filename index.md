@@ -184,14 +184,14 @@ Mark the completed cart with a filled-out cart note and route the boxes into the
 The RAC provides duplication services for paper photocopies, PDF files, and high-resolution scans of both documents and photographs for a fee. We also duplicate moving images and audio formats. The current fee schedule for duplication services is available on [the RAC website](http://www.rockarch.org/). All PDF and photocopy orders are completed on or under 60 business days from the day orders are submitted. High-resolution scans are completed on or under 30 business days from the day orders are submitted.
 
 #### Initializing Document & Still Image Duplication Requests
-If researchers are interested in having material duplicated, they should complete the citation information on the appropriate flag, put the flag around the item(s), and let you know when they are done with the box. Place a flag of the same color outside the box to indicate that there is a duplication order. You will initialize the request in Aeon by following the steps in the Aeon Guides for the RAC folder (/S:/Inter-Office/Reference/Aeon Guides for the RAC).
+If researchers are interested in having material duplicated, they should complete the citation information on the appropriate flag, put the flag around the item(s), and let you know when they are done with the box. Place a flag of the same color outside the box to indicate that there is a duplication order. You will initialize the request in Aeon by following the steps in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FUpdated%20Aeon%20Guides&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) folder in SharePoint.  
 
 ### Using Equipment and Special Formats
 
 #### Microfilm
-The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers typically will use a USB device, email, or a cloud storage service to save their copies, although the machines are connected to a printer. Instructions on use of the machines are found in S:\Inter-Office\Reference\Reading Room Information\Instructions for using the ST Viewscan.
+The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers typically will use a USB device, email, or a cloud storage service to save their copies, although the machines are connected to a printer. Instructions on use of the machines are found in the [ScanPro Microfilm](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FScanPro%20Microfilm&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) folder in SharePoint   
 
-If a reel of microfilm breaks, do not put it back in its box and mark it for resehelving. Follow the steps for reporting the break that are found in S:\Inter-Office\Archival\Special Formats\Microfilm repair.
+If a reel of microfilm breaks, do not put it back in its box and mark it for reshelving.  Use the [Preservation Concern](https://form.asana.com/?k=WjcehVDo0Ojdmb7yTDnfdA&d=4711715224923) form to report a break.  
 
 #### Photographs
 Photographs should be handled with the nitrile gloves (or cotton gloves for latex-intolerant researchers) available in the Reading Room. However, photographs housed in mylar sleeves can be handled without gloves. Do not allow researchers to remove photographs from mylar sleeves without the permission of the Head of Reference. Do not allow researchers to move around the room with photographs, even if the sleeves cause glare as they take images.
@@ -204,35 +204,10 @@ There are three options for viewing audiovisual materials:
 
 * Researchers can access digitized access copies in the [Virtual Vault](http://virtualvault.rockarch.org/).
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
-* Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the Aeon Guides for the RAC folder (/S:/Inter-Office/Reference/Aeon Guides for the RAC).
+* Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FUpdated%20Aeon%20Guides&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) folder in SharePoint.  
 
 #### Oversized Ephemera, Maps, Architectural Drawings, and Posters
 Unlike folders containing standard legal- and letter-sized materials, the researcher will slide oversized pages from one side of the folder to the next rather than flip them as if pages in a book. The desk monitor will help move all materials, as necessary.
 
 #### Digital
 Researchers interested in accessing digital media must use an access surrogate. The finding aid indicates if a surrogate exists. If you have questions about the availability of an access copy, contact the Head of Processing. [Turnaround time and policy for published digital media is TBD.]
-
-## Appendix A: Researcher Orientation Steps
-
-### First Floor
-1. Welcome the researcher in the foyer. At least 2 business days prior to the first day, the researcher should have informed the contact archivist of anticipated arrival time and method, which is then recorded in the Reading Room calendar.
-2.	Show the researcher the public spaces on the first floor, including the restrooms, closet, lounge, and terrace. Allow time to put away any food since no food or beverage is allowed upstairs.
-3. Use either Junior’s Office or the Blue Room to conduct the interview.
-4. Check photo ID.
-5. Review what can and cannot be brought into the Reading Room.
-6. Describe the Reading Room table layout, giving suggestions on placement of the folder to prevent mishandling of materials.
-7. Using a sample box, demonstrate the use of an Out card and the proper way to handle documents. Also emphasize that call slips should always stay as they are, with the barcode accessible for scanning.
-8. Review the researcher’s Aeon record and then clear the researcher (Aeon Process: Clear User). Review DIMES and requesting additional materials, using the researcher’s own RACcess account as an example.
-9. Remind the researcher of the special access agreements that are included in the online creation of a RACcess account, such as Population Council or Rockefeller University’s The Medical Letter.
-10. Indicate the retrieval submission deadlines. All requests must be submitted by these times: 10:00, 11:30, 1:30, and 3:00. All requests submitted after 3:00 will be pulled for the following morning. Explain how to identify whether or not there is a second cart of material, and how to request that it be retrieved.
-11. Review the camera policy and citation slips; as needed, go over photoduplication procedures and the blue/green/yellow slips.
-12. Determine if the researcher has requested oversized materials or any other special formats. Tell the researcher when to expect the material, and review handling and requesting procedures.
-13. Provide Virtual Vault instructions. [http://virtualvault.rockarch.org/](http://virtualvault.rockarch.org/)
-
-### Second Floor  
-14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.
-15. Check in with the desk monitor and get an Out card for the researcher.
-16. If necessary, provide a review of the cart and the table, pointing out power strips.
-17. Have the researcher sign the completed Orientation Checklist and hand it to the desk monitor.
-18. If the researcher will be using microfilm, point out the microfilm machines and provide instructions on the ViewScan software. This step can wait until the researcher is ready to use the microfilm.
-19. Touch base with the researcher periodically throughout the day. Remind the researcher that you can be paged or reached by email.
