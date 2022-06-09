@@ -9,7 +9,7 @@ The Rockefeller Archive Center provides public access to its extensive archival 
 
 ## COVID Policies
 
-The Rockefeller Archive Center has the COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
+The Rockefeller Archive Center has a COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
 
 ## Reading Room Policies
 
@@ -57,7 +57,7 @@ Researchers may use the microfilm machines unattended. Several ScanPro microfilm
 
 Desk monitors should familiarize themselves with the various office supplies (staplers, scissors, etc.) at the reference desk, most of which should not be provided to a researcher unless the supplies are being used away from the archival material. Masks and hand sanitizers are available on the reference desk.  Researcher materials such as citation slips, weights, pencils, and Out cards are on the reference desks, while extra supplies, blue/green/yellow duplication slips, gloves, and various paper products are in the alcove between the two rooms. The bottom drawer of each reference desk contains blank seating charts various permission forms, signed copies of the orientation checklists, and completed seating charts from the current year. 
 
-If you notice that any of the forms are running low, either request assistance to refill them or refill them once your shift has finished. Most forms are available in the [Forms]([https://rockarchorg.sharepoint.com/sites/Reference](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FForms&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db)) folder in SharePoint.  For the colored duplication slips, contact the Facilities Coordinator. 
+If you notice that any of the forms are running low, either request assistance to refill them or refill them once your shift has finished. Most forms are available in the [Forms](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FForms&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) folder in SharePoint. For the colored duplication slips, contact the Facilities Coordinator. 
 
 ### Opening the Reading Room
 The first desk shift begins at 10:00 a.m. In addition to standard Reading Room responsibilities, the first shift should do the following:
@@ -70,7 +70,7 @@ In Aeon, scan all items on the carts to the status “On Hold in Reading Room.�
 
 Place the carts by the tables. Carts should go closest to the wall, and for the two desks in the middle of the Main Room, carts should be placed on the side closest to the Reading Room entrance.  
 
-See the See the [Updated Aeon Guides]([https://rockarchorg.sharepoint.com/sites/Reference](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FUpdated%20Aeon%20Guides&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db)) and  [Seating Arrangements]([https://rockarchorg.sharepoint.com/sites/Reference](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FSeating%20Arrangements&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db)) folders for instructions on how to sign a researcher into the reading room. If possible, seat returning researchers at the desk they sat at previously. Do not write the researchers’ names on the seating chart until they physically arrive in the Reading Room. 
+See the See the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FUpdated%20Aeon%20Guides&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) and  [Seating Arrangements](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FSeating%20Arrangements&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) folders for instructions on how to sign a researcher into the reading room. If possible, seat returning researchers at the desk they sat at previously. Do not write the researchers’ names on the seating chart until they physically arrive in the Reading Room. 
 
 ### Checking Researchers Into the Reading Room
 When a researcher arrives in the Reading Room for the first time each day, the monitor should:
@@ -100,7 +100,7 @@ Watch for the following and gently but firmly remind researchers to avoid these 
 *	Licking fingers to turn pages
 *	Removing plastic or metal fasteners
 
-If specific preservation issues arise during your shift, fill out a [preservation concern form](https://form.asana.com/?k=WjcehVDo0Ojdmb7yTDnfdA&d=4711715224923) . These issues will then be addressed after the researcher has completed using the records and the records have been removed from the Reading Room.
+If specific preservation issues arise during your shift, fill out a [preservation concern form](https://form.asana.com/?k=WjcehVDo0Ojdmb7yTDnfdA&d=4711715224923). These issues will then be addressed after the researcher has completed using the records and the records have been removed from the Reading Room.
 
 ### Assisting Researchers
 During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you do not know how to find the answer, ask a member of a reference team using the [organizational chart](https://rockarchorg.sharepoint.com/:w:/r/sites/Reference/_layouts/15/Doc.aspx?sourcedoc=%7B3464CA3C-AA5E-4689-B988-6BB97842E8B5%7D&file=Organizational%20Chart.docx&action=default&mobileredirect=true) in SharePoint as a guide.
@@ -156,7 +156,7 @@ When more than 10 boxes are requested, have the researcher prioritize the reques
 At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. Remind the researcher of the set retrieval times for the second carts (10:45, 12:15, 2:15, 4:00).
 
 ### Offsite Materials
-Sometimes materials requested are stored off site, which is indicated in ArchivesSpace and can be found using the [Find It](http://find-it.rockarch.org/) tool or ArchivesSpace. Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send an email to the Reference Team about the upcoming retrieval, which the Reference Team will handle.
+Sometimes materials requested are stored off site, which is indicated in the location field in individual Aeon transactions.  Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor?groupId=7fdcf888-b835-47d0-bf63-c442603e4ba9&tenantId=cd5cff62-bf10-444c-be6a-8f045c6f10d6) in Microsoft Teams. The Reference Team will then handle the request. 
 
 ### Requesting Special Formats
 
