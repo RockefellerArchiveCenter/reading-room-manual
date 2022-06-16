@@ -9,7 +9,7 @@ The Rockefeller Archive Center provides public access to its extensive archival 
 
 ## COVID Policies
 
-The Rockefeller Archive Center has a COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](http://www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
+The Rockefeller Archive Center has a COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](https://www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
 
 ## Reading Room Policies
 
@@ -133,18 +133,18 @@ If the sun is coming through the windows directly onto any of the tables, please
 If you need to leave the room temporarily during your desk shift, send an email to the Reference Team to have someone cover the Reading Room for a few minutes.
 
 ## Retrievals and Returns
-Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in RACcess for that retrieval period.
+Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](htttp://raccess.rockarch.org) for that retrieval period.
 
 Researchers are highly encouraged to submit their reading room requests 2 business days in advance.
 
 ### Processing Reading Room Requests
-After a researcher submits requests in [RACcess](raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
+After a researcher submits requests in [RACcess](http://raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
 Location information is contained in [ArchivesSpace](https://as.rockarch.org) and can be found in the location field in the individual Aeon transactions.  In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time. 
 
-Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [http://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
+Select digitized materials can be accessed via the [Virtual Vault](https://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [https://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
 
 As needed, touch base with the retrievals staff using Microsoft Teams so they are aware of the retrievals and any delays with location information. (See the [Retrieval Schedules](https://rockarchorg.sharepoint.com/sites/Reference/SitePages/EventPlanHome.aspx)) folder in SharePoint for the staff retrieval schedule and the second cart schedule.) If the person retrieving second carts is out of the office, send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor?groupId=7fdcf888-b835-47d0-bf63-c442603e4ba9&tenantId=cd5cff62-bf10-444c-be6a-8f045c6f10d6) in Microsoft Teams.  
 
@@ -202,7 +202,7 @@ Researchers must use a book cradle with larger bound volumes to hold open the ou
 #### Audiovisual
 There are three options for viewing audiovisual materials:
 
-* Researchers can access digitized access copies in the [Virtual Vault](http://virtualvault.rockarch.org/).
+* Researchers can access digitized access copies in the [Virtual Vault](https://virtualvault.rockarch.org/).
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
 * Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FUpdated%20Aeon%20Guides&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db) folder in SharePoint.  
 
