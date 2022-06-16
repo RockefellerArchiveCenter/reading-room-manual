@@ -9,7 +9,7 @@ The Rockefeller Archive Center provides public access to its extensive archival 
 
 ## COVID Policies
 
-The Rockefeller Archive Center has a COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
+The Rockefeller Archive Center has a COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](http://www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
 
 ## Reading Room Policies
 
