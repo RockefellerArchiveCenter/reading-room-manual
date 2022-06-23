@@ -7,6 +7,10 @@ title:  "Reading Room Manual"
 
 The Rockefeller Archive Center provides public access to its extensive archival holdings through its two Reading Rooms. This manual serves as a guide for all staff who work in the Reading Rooms or with onsite researchers. It covers topics such as researcher orientation, Reading Room procedures, the handling of archival materials, and duplication requests.
 
+## COVID Policies
+
+The Rockefeller Archive Center has a COVID-19 Prevention Policy for Researchers and Visitors available on the Archive Center’s [website](https://www.rockarch.org).  This policy outlines the actions that will be required of researchers and visitors who want or need to be onsite at the Archive Center. 
+
 ## Reading Room Policies
 
 The Reading Room policies and procedures help to ensure the protection of the archival materials being used in the Reading Room as well as to provide equal access to open records. The interviewing archivist and desk monitor should reinforce what can be brought in the Reading Room, what should remain in the lockers or lounge, and how records should be handled.
@@ -36,38 +40,37 @@ Standardized practices for researchers handling archival materials are described
 Researchers are permitted to photograph archival materials with a camera or device. Use of small tripods or camera stands is permissible as long as the archival material is handled with care and according to the Archive Center rules. To adhere to U.S. copyright law, photographs may be taken only for personal scholarly use.
 
 ## Researcher Orientation
-The Reading Room is open Monday through Friday from 9:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](https://rockarch.org/collections/access-and-request-materials/holiday-schedule/).
+The Reading Room is open Monday through Friday from 10:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](https://rockarch.org/collections/access-and-request-materials/holiday-schedule/).
 
 The Archive Center provides a free shuttle from and to the Tarrytown train station that meets the following trains:
-* Departs Grand Central at 8:46 a.m. and arrives in Tarrytown at 9:23 a.m. The van arrives at RAC at approximately 9:40 a.m.
-* Departs Tarrytown at 5:34pm and arrives at Grand Central at 6:17 p.m. The van leaves RAC at 5:15 p.m.
+* Departs Grand Central at 9:00 am and arrives in Tarrytown at 9:46 a.m. 
+* Departs Tarrytown at 5:42 pm and arrives at Grand Central at 6:42 p.m. The van leaves RAC at 5:15 p.m. 
 
-For a researcher arriving for the first time, there are several steps to the orientation and registration process. Appendix A contains a list of the individual steps involved in orientation. It is the responsibility of the archivist conducting the research interview to meet the researcher upon arrival and follow the steps on the Research Orientation Checklist (see Appendix A) to ensure a consistent orientation is provided for everyone doing research at the Archive Center. For a returning researcher who has not been to the RAC in more than a year, the interviewing archivist provides a refresher on Reading Room policies and procedures.
+For a researcher arriving for the first time, there are several steps to the orientation and registration process. - Approximately a week prior to the researcher’s visit, a virtual orientation will need to be scheduled by the contact archivist. The virtual orientation (one-on-one) is approximately 30-40 minutes long. The virtual orientation consists of a review the reading room policies and procedures gives the opportunity for the researcher and contact archivist to discuss further about their project and the archival collections. 
 
 ## Reading Room Procedures
 ### Reading Room Layout and Supplies
 
-The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor.
+The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor.  Due to the COVID policies we are currently limiting the number of researchers.   
 
-Researchers may use the microfilm machines unattended. Several ViewScan microfilm machines are located in or adjacent to the Reading Rooms.
+Researchers may use the microfilm machines unattended. Several ScanPro microfilm machines are located in or adjacent to the Reading Rooms. 
 
-Desk monitors should familiarize themselves with the various office supplies at the reference desk, most of which should not be provided to a researcher unless the supplies are being used away from the archival material.
-Researcher materials such as citation slips, weights, pencils, and Out cards are on the reference desks, while extra supplies, blue/green/yellow duplication slips, gloves, and various paper products are in the alcove between the two rooms. The bottom drawer of each reference desk contains blank seating charts and orientation checklists, various permission forms, signed copies of the orientation checklists, and completed seating charts from the current year.
+Desk monitors should familiarize themselves with the various office supplies (staplers, scissors, etc.) at the reference desk, most of which should not be provided to a researcher unless the supplies are being used away from the archival material. Masks and hand sanitizers are available on the reference desk.  Researcher materials such as citation slips, weights, pencils, and Out cards are on the reference desks, while extra supplies, blue/green/yellow duplication slips, gloves, and various paper products are in the alcove between the two rooms. The bottom drawer of each reference desk contains blank seating charts various permission forms, signed copies of the orientation checklists, and completed seating charts from the current year. 
 
-If you notice that any of the forms are running low, either request assistance to refill them or refill them once your shift has finished. Most forms are available at S:\Inter-Office\Archival\Forms\Reference forms. For the colored duplication slips, contact the Facilities Coordinator.
+If you notice that any of the forms are running low, either request assistance to refill them or refill them once your shift has finished. Most forms are available in the [Forms](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/Forms?csf=1&web=1&e=zwGi2T) folder in SharePoint. For the colored duplication slips, contact the Facilities Coordinator. 
 
 ### Opening the Reading Room
-The first desk shift begins at 8:45 a.m. In addition to standard Reading Room responsibilities, the first shift should do the following:
+The first desk shift begins at 10:00 a.m. In addition to standard Reading Room responsibilities, the first shift should do the following:
 
 Turn on the Reading Room computer.
 
-Bring the carts to the Reading Room by 9:00. Ensure that the correct carts are being brought up by comparing the Outlook Reading Room calendar with the cart notes.
+Bring the carts to the Reading Room by 10:00. Ensure that the correct carts are being brought up by comparing the Outlook Reading Room calendar with the cart notes.
 
 In Aeon, scan all items on the carts to the status “On Hold in Reading Room.”
 
 Place the carts by the tables. Carts should go closest to the wall, and for the two desks in the middle of the Main Room, carts should be placed on the side closest to the Reading Room entrance.  
 
-See the “Aeon Guides for the RAC folder (S:\Inter-Office\Reference\Aeon Guides for the RAC) for details on seating arrangement (S:\Inter-Office\Reference\Reading Room Information\Seating Arrangements). If possible, seat returning researchers at the desk they sat at previously. **Do not** write the researchers’ names on the seating chart until they physically arrive in the Reading Room.
+See the See the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides?csf=1&web=1&e=Yva9iU) and  [Seating Arrangements](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/Seating%20Arrangements) folders for instructions on how to sign a researcher into the reading room. If possible, seat returning researchers at the desk they sat at previously. Do not write the researchers’ names on the seating chart until they physically arrive in the Reading Room. 
 
 ### Checking Researchers Into the Reading Room
 When a researcher arrives in the Reading Room for the first time each day, the monitor should:
@@ -97,10 +100,10 @@ Watch for the following and gently but firmly remind researchers to avoid these 
 *	Licking fingers to turn pages
 *	Removing plastic or metal fasteners
 
-If specific preservation issues arise during your shift, consult the Guide to Collection Concerns (M:\Collections Management\Collection Management Guides\Preservation). These issues will then be addressed after the researcher has completed using the records and the records have been removed from the Reading Room.
+If specific preservation issues arise during your shift, fill out a [preservation concern form](https://form.asana.com/?k=WjcehVDo0Ojdmb7yTDnfdA&d=4711715224923). These issues will then be addressed after the researcher has completed using the records and the records have been removed from the Reading Room.
 
 ### Assisting Researchers
-During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you do not know how to find the answer, ask a member of a reference team using the organizational chart as a guide (S:\Inter-Office\Reference\Reading Room Information).
+During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you do not know how to find the answer, ask a member of a reference team using the [organizational chart](https://rockarchorg.sharepoint.com/:w:/s/Reference/ETzKZDReqolGuYhruXhC6LUB20VhB3e_m_02wKfQUsWdEA?e=sj16ro) in SharePoint as a guide.
 
 ### Signing a Researcher Out of the Reading Room
 When researchers are ready to leave for the day, confirm whether they are returning and when, and ask which materials they have finished using. They should also give you their Out cards. Complete the cart note with the relevant information of what can be returned and what is on hold.
@@ -130,30 +133,30 @@ If the sun is coming through the windows directly onto any of the tables, please
 If you need to leave the room temporarily during your desk shift, send an email to the Reference Team to have someone cover the Reading Room for a few minutes.
 
 ## Retrievals and Returns
-Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in RACcess for that retrieval period.
+Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](htttp://raccess.rockarch.org) for that retrieval period.
 
 Researchers are highly encouraged to submit their reading room requests 2 business days in advance.
 
 ### Processing Reading Room Requests
-After a researcher submits requests in RACcess, the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
+After a researcher submits requests in [RACcess](http://raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
-Location information is contained in ArchivesSpace and can be found using the [Find It](http://find-it.rockarch.org/) tool or ArchivesSpace. In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time.
+Location information is contained in [ArchivesSpace](https://as.rockarch.org) and can be found in the location field in the individual Aeon transactions.  In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time. 
 
-Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [http://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. Refer to Aeon Guides for the RAC (/S:/Inter-Office/Reference/Aeon Guides for the RAC) for a template of instructions that can be used in an email to researchers.
+Select digitized materials can be accessed via the [Virtual Vault](https://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [https://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
 
-As needed, touch base with the retrievals staff using their email addresses so they are aware of the retrievals and any delays with location information. (See S:\Inter-Office\Reference\Reading Room Information for the staff retrieval schedule and the second cart schedule.) If the person retrieving second carts is out of the office, email the Reference Team for assistance.
+As needed, touch base with the retrievals staff using Microsoft Teams so they are aware of the retrievals and any delays with location information. (See the [Retrieval Schedules](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/retrieval%20schedules?csf=1&web=1&e=O9tK2F) folder in SharePoint for the staff retrieval schedule and the second cart schedule. If the person retrieving second carts is out of the office, send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) in Microsoft Teams
 
 Researchers are allowed a maximum of 10 document storage boxes or 4 record storage boxes at once. Therefore, for new retrievals, ask the researchers if they are finished with any boxes and be prepared to route them to the “Awaiting Reshelving” queue so they can be removed when the new boxes are delivered. The staff member bringing the new boxes will also take away the completed boxes.
 
 When more than 10 boxes are requested, have the researcher prioritize the requests. Then indicate when material should be paged (i.e., during the current retrieval time or the next) by changing the time in the “Scheduled Date” in Aeon before routing the request to the “Be Paged” queue.
 
 ### Requesting Items on Hold for Researchers
-At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue. Remind the researcher of the set retrieval times for the second carts (10:45, 12:15, 2:15, 4:00).
+At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue.IF the researcher is ready for their second cart, send a message to [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) to ask if a staff member is available to bring up the materials.
 
 ### Offsite Materials
-Sometimes materials requested are stored off site, which is indicated in ArchivesSpace and can be found using the [Find It](http://find-it.rockarch.org/) tool or ArchivesSpace. Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send an email to the Reference Team about the upcoming retrieval, which the Reference Team will handle.
+Sometimes materials requested are stored off site, which is indicated in the location field in individual Aeon transactions.  Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) in Microsoft Teams. The Reference Team will then handle the request. 
 
 ### Requesting Special Formats
 
@@ -167,7 +170,7 @@ Realia requires advanced notice of 48 hours. The Head of Reference and the Head 
 Retrieving oversized material is based on two factors: available space in the Reading Room and available staff to assist with pulling procedures. Two tables are needed for viewing most oversized materials. If two are not available, call for the second room to be opened. If both Reading Rooms are full, contact the Head of Reference. Vault 107 may be used for reviewing oversized materials if a Reading Room is not available or if items are so large or fragile that transport is difficult or puts the items at risk. Researcher review of oversized items in Vault 107 should be arranged in advance, and any researcher must be accompanied and supervised by a staff member. Collections Management can be a resource for pulling the material if a second person is required.
 
 #### Audiovisual
-* Refer to Aeon Guides for the RAC (/S:/Inter-Office/Reference/Aeon Guides for the RAC) to find instructions for audiovisual requests.
+* Refer to [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides) folder in SharePoint to find instructions for audiovisual requests. 
 * The RAC does not provide access to original magnetic media. A digital surrogate must be created for all video and audio objects. Digitally available audiovisual material is indicated in the Access Restriction Note: “Access copy available.” If a digital surrogate does not exist, the researcher should speak with the Audiovisual Archivist or a member of Collections Management to discuss further options.
 * The Audiovisual Archivist or a member of Collections Management will assess any requested film prints and decide whether they are in playable condition. Advanced notice of _at least_ 48 business hours must be given to allow for proper staging and assessment. The RAC does not provide access to films that are physically deteriorating, nor can the RAC allow access to film negatives, fine grain masters, production elements, or work prints.
 
@@ -181,14 +184,14 @@ Mark the completed cart with a filled-out cart note and route the boxes into the
 The RAC provides duplication services for paper photocopies, PDF files, and high-resolution scans of both documents and photographs for a fee. We also duplicate moving images and audio formats. The current fee schedule for duplication services is available on [the RAC website](http://www.rockarch.org/). All PDF and photocopy orders are completed on or under 60 business days from the day orders are submitted. High-resolution scans are completed on or under 30 business days from the day orders are submitted.
 
 #### Initializing Document & Still Image Duplication Requests
-If researchers are interested in having material duplicated, they should complete the citation information on the appropriate flag, put the flag around the item(s), and let you know when they are done with the box. Place a flag of the same color outside the box to indicate that there is a duplication order. You will initialize the request in Aeon by following the steps in the Aeon Guides for the RAC folder (/S:/Inter-Office/Reference/Aeon Guides for the RAC).
+If researchers are interested in having material duplicated, they should complete the citation information on the appropriate flag, put the flag around the item(s), and let you know when they are done with the box. Place a flag of the same color outside the box to indicate that there is a duplication order. You will initialize the request in Aeon by following the steps in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides) folder in SharePoint.  
 
 ### Using Equipment and Special Formats
 
 #### Microfilm
-The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers typically will use a USB device, email, or a cloud storage service to save their copies, although the machines are connected to a printer. Instructions on use of the machines are found in S:\Inter-Office\Reference\Reading Room Information\Instructions for using the ST Viewscan.
+The Archive Center has several digital microfilm readers, allowing users to capture and save documents as digital files (PDFs, JPGs, etc.). Researchers wishing to view microfilm should be given a brief tutorial on proper operation of the microfilm machines and software, as well as proper handling of the microfilm. Researchers typically will use a USB device, email, or a cloud storage service to save their copies, although the machines are connected to a printer. Instructions on use of the machines are found in the [ScanPro Microfilm](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/ScanPro%20Microfilm?) folder in SharePoint.  
 
-If a reel of microfilm breaks, do not put it back in its box and mark it for resehelving. Follow the steps for reporting the break that are found in S:\Inter-Office\Archival\Special Formats\Microfilm repair.
+If a reel of microfilm breaks, do not put it back in its box and mark it for reshelving.  Use the [Preservation Concern](https://form.asana.com/?k=WjcehVDo0Ojdmb7yTDnfdA&d=4711715224923) form to report a break.  
 
 #### Photographs
 Photographs should be handled with the nitrile gloves (or cotton gloves for latex-intolerant researchers) available in the Reading Room. However, photographs housed in mylar sleeves can be handled without gloves. Do not allow researchers to remove photographs from mylar sleeves without the permission of the Head of Reference. Do not allow researchers to move around the room with photographs, even if the sleeves cause glare as they take images.
@@ -199,37 +202,12 @@ Researchers must use a book cradle with larger bound volumes to hold open the ou
 #### Audiovisual
 There are three options for viewing audiovisual materials:
 
-* Researchers can access digitized access copies in the [Virtual Vault](http://virtualvault.rockarch.org/).
+* Researchers can access digitized access copies in the [Virtual Vault](https://virtualvault.rockarch.org/).
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
-* Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the Aeon Guides for the RAC folder (/S:/Inter-Office/Reference/Aeon Guides for the RAC).
+* Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides?csf=1&web=1&e=gc5GsE) folder in SharePoint.  
 
 #### Oversized Ephemera, Maps, Architectural Drawings, and Posters
 Unlike folders containing standard legal- and letter-sized materials, the researcher will slide oversized pages from one side of the folder to the next rather than flip them as if pages in a book. The desk monitor will help move all materials, as necessary.
 
 #### Digital
 Researchers interested in accessing digital media must use an access surrogate. The finding aid indicates if a surrogate exists. If you have questions about the availability of an access copy, contact the Head of Processing. [Turnaround time and policy for published digital media is TBD.]
-
-## Appendix A: Researcher Orientation Steps
-
-### First Floor
-1. Welcome the researcher in the foyer. At least 2 business days prior to the first day, the researcher should have informed the contact archivist of anticipated arrival time and method, which is then recorded in the Reading Room calendar.
-2.	Show the researcher the public spaces on the first floor, including the restrooms, closet, lounge, and terrace. Allow time to put away any food since no food or beverage is allowed upstairs.
-3. Use either Junior’s Office or the Blue Room to conduct the interview.
-4. Check photo ID.
-5. Review what can and cannot be brought into the Reading Room.
-6. Describe the Reading Room table layout, giving suggestions on placement of the folder to prevent mishandling of materials.
-7. Using a sample box, demonstrate the use of an Out card and the proper way to handle documents. Also emphasize that call slips should always stay as they are, with the barcode accessible for scanning.
-8. Review the researcher’s Aeon record and then clear the researcher (Aeon Process: Clear User). Review DIMES and requesting additional materials, using the researcher’s own RACcess account as an example.
-9. Remind the researcher of the special access agreements that are included in the online creation of a RACcess account, such as Population Council or Rockefeller University’s The Medical Letter.
-10. Indicate the retrieval submission deadlines. All requests must be submitted by these times: 10:00, 11:30, 1:30, and 3:00. All requests submitted after 3:00 will be pulled for the following morning. Explain how to identify whether or not there is a second cart of material, and how to request that it be retrieved.
-11. Review the camera policy and citation slips; as needed, go over photoduplication procedures and the blue/green/yellow slips.
-12. Determine if the researcher has requested oversized materials or any other special formats. Tell the researcher when to expect the material, and review handling and requesting procedures.
-13. Provide Virtual Vault instructions. [http://virtualvault.rockarch.org/](http://virtualvault.rockarch.org/)
-
-### Second Floor  
-14. Show the researcher the lockers, coat closet, and restroom, allowing time to unpack.
-15. Check in with the desk monitor and get an Out card for the researcher.
-16. If necessary, provide a review of the cart and the table, pointing out power strips.
-17. Have the researcher sign the completed Orientation Checklist and hand it to the desk monitor.
-18. If the researcher will be using microfilm, point out the microfilm machines and provide instructions on the ViewScan software. This step can wait until the researcher is ready to use the microfilm.
-19. Touch base with the researcher periodically throughout the day. Remind the researcher that you can be paged or reached by email.
