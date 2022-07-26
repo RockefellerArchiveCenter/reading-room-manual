@@ -7,7 +7,7 @@ title:  "Reading Room Manual | Other Resources"
 
 [Reading Room Forms](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2FForms&viewid=81d54f38%2D63f2%2D422f%2D952a%2Db998a2b226db)
 
-[Reading Room Seating Arrangements](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=3Kskcy&cid=1285b264%2D70d5%2D4c22%2D8590%2D7b5564020638&RootFolder=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2Fretrieval%20schedules&FolderCTID=0x012000CD5EB2F89B106943961A8AD12E5C12EA))
+[Reading Room Seating Arrangements](https://rockarchorg.sharepoint.com/sites/Reference/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=3Kskcy&cid=1285b264%2D70d5%2D4c22%2D8590%2D7b5564020638&RootFolder=%2Fsites%2FReference%2FShared%20Documents%2FReading%20Room%20Information%2Fretrieval%20schedules&FolderCTID=0x012000CD5EB2F89B106943961A8AD12E5C12EA)
 
 [Reference Team Organizational Chart](https://rockarchorg.sharepoint.com/:w:/r/sites/Reference/_layouts/15/Doc.aspx?sourcedoc=%7B3464CA3C-AA5E-4689-B988-6BB97842E8B5%7D&file=Organizational%20Chart.docx&action=default&mobileredirect=true)
 
