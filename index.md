@@ -133,18 +133,18 @@ If the sun is coming through the windows directly onto any of the tables, please
 If you need to leave the room temporarily during your desk shift, send an email to the Reference Team to have someone cover the Reading Room for a few minutes.
 
 ## Retrievals and Returns
-Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](htttp://raccess.rockarch.org) for that retrieval period.
+Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](htttps://raccess.rockarch.org) for that retrieval period.
 
 Researchers are highly encouraged to submit their reading room requests 2 business days in advance.
 
 ### Processing Reading Room Requests
-After a researcher submits requests in [RACcess](http://raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
+After a researcher submits requests in [RACcess](https://raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
 Location information is contained in [ArchivesSpace](https://as.rockarch.org) and can be found in the location field in the individual Aeon transactions.  In order to ensure that materials are pulled efficiently, please complete the steps within 15 minutes after the deadline for that retrieval time. 
 
-Select digitized materials can be accessed via the [Virtual Vault](https://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [https://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
+Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [https://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
 
 As needed, touch base with the retrievals staff using Microsoft Teams so they are aware of the retrievals and any delays with location information. (See the [Retrieval Schedules](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/retrieval%20schedules?csf=1&web=1&e=O9tK2F) folder in SharePoint for the staff retrieval schedule and the second cart schedule. If the person retrieving second carts is out of the office, send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) in Microsoft Teams
 
@@ -181,7 +181,7 @@ Retrievals take from 15-45 minutes. When materials arrive in the Reading Room, c
 Mark the completed cart with a filled-out cart note and route the boxes into the “Reshelve Items” queue. The retrievals staff members will take the cart to Room 103 after they bring up any second carts.
 
 ### Duplication
-The RAC provides duplication services for paper photocopies, PDF files, and high-resolution scans of both documents and photographs for a fee. We also duplicate moving images and audio formats. The current fee schedule for duplication services is available on [the RAC website](http://www.rockarch.org/). All PDF and photocopy orders are completed on or under 60 business days from the day orders are submitted. High-resolution scans are completed on or under 30 business days from the day orders are submitted.
+The RAC provides duplication services for paper photocopies, PDF files, and high-resolution scans of both documents and photographs for a fee. We also duplicate moving images and audio formats. The current fee schedule for duplication services is available on [the RAC website](https://rockarch.org/collections/access-and-request-materials/#duplication-services-and-fee-schedule)). All PDF and photocopy orders are completed on or under 60 business days from the day orders are submitted. High-resolution scans are completed on or under 30 business days from the day orders are submitted.
 
 #### Initializing Document & Still Image Duplication Requests
 If researchers are interested in having material duplicated, they should complete the citation information on the appropriate flag, put the flag around the item(s), and let you know when they are done with the box. Place a flag of the same color outside the box to indicate that there is a duplication order. You will initialize the request in Aeon by following the steps in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides) folder in SharePoint.  
@@ -202,7 +202,7 @@ Researchers must use a book cradle with larger bound volumes to hold open the ou
 #### Audiovisual
 There are three options for viewing audiovisual materials:
 
-* Researchers can access digitized access copies in the [Virtual Vault](https://virtualvault.rockarch.org/).
+* Researchers can access digitized access copies in the [Virtual Vault](http://virtualvault.rockarch.org/).
 * Researchers can view digital access DVD copies for material not available in the Virtual Vault. The free-standing DVD player (located in the closet to the right of the researchers’ bathroom) can be borrowed. The desk monitor can provide headphones.
 * Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides?csf=1&web=1&e=gc5GsE) folder in SharePoint.  
 
