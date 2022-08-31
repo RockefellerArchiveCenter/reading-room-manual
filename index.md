@@ -133,7 +133,7 @@ If the sun is coming through the windows directly onto any of the tables, please
 If you need to leave the room temporarily during your desk shift, send an email to the Reference Team to have someone cover the Reading Room for a few minutes.
 
 ## Retrievals and Returns
-Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](htttps://raccess.rockarch.org) for that retrieval period.
+Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](https://raccess.rockarch.org) for that retrieval period.
 
 Researchers are highly encouraged to submit their reading room requests 2 business days in advance.
 
