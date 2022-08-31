@@ -51,7 +51,7 @@ For a researcher arriving for the first time, there are several steps to the ori
 ## Reading Room Procedures
 ### Reading Room Layout and Supplies
 
-The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor.  Due to the COVID policies we are currently limiting the number of researchers.   
+The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor. Due to the COVID policies we are currently limiting the number of researchers.   
 
 Researchers may use the microfilm machines unattended. Several ScanPro microfilm machines are located in or adjacent to the Reading Rooms. 
 
