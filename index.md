@@ -207,7 +207,10 @@ There are three options for viewing audiovisual materials:
 * Some analog film formats, such as 16mm and 35mm film, can be played in the Preservation Lab. If a researcher is interested in viewing a film, advanced notice of at least 48 business hours must be given to allow for proper staging and assessment. If the researcher gives advance notice, follow the Instructions for audiovisual queues in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides?csf=1&web=1&e=gc5GsE) folder in SharePoint.  
 
 #### Oversized Ephemera, Maps, Architectural Drawings, and Posters
-Unlike folders containing standard legal- and letter-sized materials, the researcher will slide oversized pages from one side of the folder to the next rather than flip them as if pages in a book. The desk monitor will help move all materials, as necessary.
+* Oversized flat file materials will be made accessible to researchers on the tables in Vault 107 rather than in the RAC reading rooms. The researcher will be escorted by a staff member to and from Vault 107 and the reading room.
+* Advanced notice of at least 24 business hours will be required in order to provide researcher access to oversized materials.
+* Once the request is put through Aeon, the Retrievals team member who pulls the material will notify the entire Reference Team through a Teams message that the material is now available for viewing in Vault 107. The Reference Team will then coordinate the researcher’s viewing of the material. The Reading Room Desk Shift channel should be used to request additional staff support if necessary.
+* Any archival staff member working onsite should make themselves available to support researcher access to the materials. In the case of a large number of folders or extra-large material being requested, two staff members may be asked to help facilitate.
 
 #### Digital
 Researchers interested in accessing digital media must use an access surrogate. The finding aid indicates if a surrogate exists. If you have questions about the availability of an access copy, contact the Head of Processing. [Turnaround time and policy for published digital media is TBD.]
