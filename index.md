@@ -40,10 +40,10 @@ Standardized practices for researchers handling archival materials are described
 Researchers are permitted to photograph archival materials with a camera or device. Use of small tripods or camera stands is permissible as long as the archival material is handled with care and according to the Archive Center rules. To adhere to U.S. copyright law, photographs may be taken only for personal scholarly use.
 
 ## Researcher Orientation
-The Reading Room is open Monday through Friday from 10:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](https://rockarch.org/collections/access-and-request-materials/holiday-schedule/).
+The Reading Room is open Monday through Friday from 9:00 a.m. to 5:00 p.m. For a list of holidays and early closings, see the [RAC website](https://rockarch.org/collections/access-and-request-materials/holiday-schedule/).
 
 The Archive Center provides a free shuttle from and to the Tarrytown train station that meets the following trains:
-* Departs Grand Central at 9:00 am and arrives in Tarrytown at 9:46 a.m. 
+* Departs Grand Central at 8:15 am and arrives in Tarrytown at 9:09 a.m. 
 * Departs Tarrytown at 5:42 pm and arrives at Grand Central at 6:42 p.m. The van leaves RAC at 5:15 p.m. 
 
 For a researcher arriving for the first time, there are several steps to the orientation and registration process. - Approximately a week prior to the researcher’s visit, a virtual orientation will need to be scheduled by the contact archivist. The virtual orientation (one-on-one) is approximately 30-40 minutes long. The virtual orientation consists of a review the reading room policies and procedures gives the opportunity for the researcher and contact archivist to discuss further about their project and the archival collections. 
@@ -51,7 +51,7 @@ For a researcher arriving for the first time, there are several steps to the ori
 ## Reading Room Procedures
 ### Reading Room Layout and Supplies
 
-The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor. Due to the COVID policies we are currently limiting the number of researchers.   
+The main Reading Room can accommodate seven researchers; the second Reading Room can accommodate four researchers. Researcher desks are numbered one through eleven on the seating charts. Each Reading Room has a desk monitor.  
 
 Researchers may use the microfilm machines unattended. Several ScanPro microfilm machines are located in or adjacent to the Reading Rooms. 
 
@@ -60,11 +60,11 @@ Desk monitors should familiarize themselves with the various office supplies (st
 If you notice that any of the forms are running low, either request assistance to refill them or refill them once your shift has finished. Most forms are available in the [Forms](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/Forms?csf=1&web=1&e=zwGi2T) folder in SharePoint. For the colored duplication slips, contact the Facilities Coordinator. 
 
 ### Opening the Reading Room
-The first desk shift begins at 10:00 a.m. In addition to standard Reading Room responsibilities, the first shift should do the following:
+The first desk shift begins at 9:00 a.m. In addition to standard Reading Room responsibilities, the first shift should do the following:
 
 Turn on the Reading Room computer.
 
-Bring the carts to the Reading Room by 10:00. Ensure that the correct carts are being brought up by comparing the Outlook Reading Room calendar with the cart notes.
+Bring the carts to the Reading Room by 9:00. Ensure that the correct carts are being brought up by comparing the Outlook Reading Room calendar with the cart notes.
 
 In Aeon, scan all items on the carts to the status “On Hold in Reading Room.”
 
@@ -103,7 +103,7 @@ Watch for the following and gently but firmly remind researchers to avoid these 
 If specific preservation issues arise during your shift, fill out a [preservation concern form](https://form.asana.com/?k=WjcehVDo0Ojdmb7yTDnfdA&d=4711715224923). These issues will then be addressed after the researcher has completed using the records and the records have been removed from the Reading Room.
 
 ### Assisting Researchers
-During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you do not know how to find the answer, ask a member of a reference team using the [organizational chart](https://rockarchorg.sharepoint.com/:w:/s/Reference/ETzKZDReqolGuYhruXhC6LUB20VhB3e_m_02wKfQUsWdEA?e=sj16ro) in SharePoint as a guide.
+During a desk shift, researchers may ask you a variety of questions. Some will be reference questions and others may be how-to questions that are answered elsewhere in this manual. For reference questions for which you do not know how to find the answer, ask the contact archivist or another member of the Reference team.
 
 ### Signing a Researcher Out of the Reading Room
 When researchers are ready to leave for the day, confirm whether they are returning and when, and ask which materials they have finished using. They should also give you their Out cards. Complete the cart note with the relevant information of what can be returned and what is on hold.
@@ -130,7 +130,7 @@ Feel free to close the door to the Reading Room when there is noise on the secon
 
 If the sun is coming through the windows directly onto any of the tables, please close the shade to protect the archival materials and reduce glare. Feel free to open the shades when it is cloudy.
 
-If you need to leave the room temporarily during your desk shift, send an email to the Reference Team to have someone cover the Reading Room for a few minutes.
+If you need to leave the room temporarily during your desk shift, send a message to the Reading Room Monitor Teams chat to have someone cover the Reading Room for a few minutes.
 
 ## Retrievals and Returns
 Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are the times by which onsite researchers must submit requests in [RACcess](https://raccess.rockarch.org) for that retrieval period.
@@ -138,7 +138,7 @@ Retrievals happen four times a day: at 10:00, 11:30, 1:30, and 3:00. These are t
 Researchers are highly encouraged to submit their reading room requests 2 business days in advance.
 
 ### Processing Reading Room Requests
-After a researcher submits requests in [RACcess](https://raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must enter location information for each transaction and route it to the “Be Paged” queue in a timely fashion.
+After a researcher submits requests in [RACcess](https://raccess.rockarch.org), the transactions appear in the “New Reading Room Request” queue in the Aeon client. Pay attention to this queue during your shift. You must route each transaction to the “Be Paged” queue in a timely fashion.
 
 You also need to check the restriction field for all new requests. While new requests submitted by a researcher who is not signed into the Reading Room in Aeon are automatically routed to the “Needs Restriction Review” queue, this does NOT happen when someone is signed into the Reading Room. You will need to manually move requests with restrictions to “Needs Restriction Review.”
 
@@ -146,7 +146,7 @@ Location information is contained in [ArchivesSpace](https://as.rockarch.org) an
 
 Select digitized materials can be accessed via the [Virtual Vault](http://virtualvault.rockarch.org/). If such an item is requested, direct the researcher to [https://virtualvault.rockarch.org](http://virtualvault.rockarch.org) either verbally or by email. 
 
-As needed, touch base with the retrievals staff using Microsoft Teams so they are aware of the retrievals and any delays with location information. (See the [Retrieval Schedules](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/retrieval%20schedules?csf=1&web=1&e=O9tK2F) folder in SharePoint for the staff retrieval schedule and the second cart schedule. If the person retrieving second carts is out of the office, send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) in Microsoft Teams)
+As needed, touch base with the retrievals staff using Microsoft Teams so they are aware of the retrievals and any delays with location information. (See the [Retrieval Schedules](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Reading%20Room%20Information/retrieval%20schedules?csf=1&web=1&e=O9tK2F) folder in SharePoint for the staff retrieval schedule. 
 
 Researchers are allowed a maximum of 10 document storage boxes or 4 record storage boxes at once. Therefore, for new retrievals, ask the researchers if they are finished with any boxes and be prepared to route them to the “Awaiting Reshelving” queue so they can be removed when the new boxes are delivered. The staff member bringing the new boxes will also take away the completed boxes.
 
@@ -156,12 +156,12 @@ When more than 10 boxes are requested, have the researcher prioritize the reques
 At times, an additional cart of materials has been pulled for a researcher and is on hold in Room 103. You can verify this by reviewing the “On Hold in Vault” queue.IF the researcher is ready for their second cart, send a message to [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) to ask if a staff member is available to bring up the materials.
 
 ### Offsite Materials
-Sometimes materials requested are stored off site, which is indicated in the location field in individual Aeon transactions.  Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send a message to the [Desk Shift Monitor chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) in Microsoft Teams. The Reference Team will then handle the request. 
+Sometimes materials requested are stored off site, which is indicated in the location field in individual Aeon transactions.  Offsite materials require 2 business days advanced notice. Therefore, you should follow up with the researcher about the length of their research visit and the significance of the material to the research. If the researcher would still like to see the material, put the request in the appropriate “In Offsite Retrieval” queue and send a message to the [Reference Team chat](https://teams.microsoft.com/l/channel/19%3a823ae5e8f6d04f4dba5c7d4185f107ce%40thread.tacv2/Desk%2520Shift%2520Monitor) in Microsoft Teams. The Reference Team will then handle the request. 
 
 ### Requesting Special Formats
 
 ##### Microfilm
-If a request has multiple reels of microfilm, it must be cloned into multiple requests, one for each reel. This applies even if the microfilm reels are consecutive reels. Refer to for the instructions on cloning microfilm requests.
+If a request has multiple reels of microfilm, it must be cloned into multiple requests, one for each reel. This applies even if the microfilm reels are consecutive reels. Refer to for the instructions on cloning microfilm requests in the [Updated Aeon Guides](https://rockarchorg.sharepoint.com/:f:/r/sites/Reference/Shared%20Documents/Updated%20Aeon%20Guides) folder in SharePoint.
 
 #### Realia
 Realia requires advanced notice of 48 hours. The Head of Reference and the Head of Collections Management need to approve these requests. Follow up with Collections Management Team to determine if the item can easily be pulled.
