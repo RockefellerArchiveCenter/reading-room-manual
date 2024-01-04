@@ -5,4 +5,4 @@ The Rockefeller Archive Center provides public access to its extensive archival 
 
 ## Accessing the documentation
 
-The content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
+The content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
